@@ -1,7 +1,0 @@
-3805_4_7
-false
-true
-false
-true
-true
-false

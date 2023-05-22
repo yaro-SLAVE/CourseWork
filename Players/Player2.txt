@@ -1,7 +1,0 @@
-0_0_0
-true
-false
-false
-true
-true
-false
